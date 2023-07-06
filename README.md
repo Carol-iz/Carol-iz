@@ -1,9 +1,13 @@
 Olá! Eu sou a Carol👋
 
 ⭐ Sou uma futura DEV
+
 🪙 Sou estudante de Contabilidade
+
 ❤️ Apaixonada pela a área de Tecnologia 
+
 🌱 Estudando: HTML, CSS, Javascript, Python, Java ...
+
 ✈️ Let's bora!
 
 <!---
